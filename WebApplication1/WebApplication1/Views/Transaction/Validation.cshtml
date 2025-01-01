@@ -1,0 +1,32 @@
+﻿@model WebApplication1.Models.TransactionModel;
+
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+<h1>Validate</h1>
+@* @if (!ViewData.ModelState.IsValid)
+{
+    <div class="alert alert-danger">
+        @foreach (var error in ViewData.ModelState.Values.SelectMany(v => v.Errors))
+        {
+            <p>@error.ErrorMessage</p>
+        }
+    </div>
+} *@
+
+@if (!ViewData.ModelState.IsValid)
+{
+    var firstError = ViewData.ModelState.Values
+        .SelectMany(v => v.Errors)
+        .FirstOrDefault();
+
+    if (firstError != null)
+    {
+        <div class="alert alert-danger">
+            @firstError.ErrorMessage
+        </div>
+    }
+}

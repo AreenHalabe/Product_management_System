@@ -1,0 +1,57 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    ViewData["ShowHeader"] = true;
+
+}
+@model List<WebApplication1.Models.SupplierModel>;
+<html>
+    <head>
+
+        <link rel="stylesheet" href="https://cdn.datatables.net/2.1.8/css/dataTables.bootstrap5.css" />
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.1.1/css/all.min.css" integrity="sha512-ioRJH7yXnyX+7fXTQEKPULWkMn3CqMcapK0NNtCN8q//sW7ZeVFcbMJ9RvX99TwDg6P8rAH2IqUSt2TLab4Xmw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    </head>
+    <body>
+
+    <div class="container text-right">
+            <div class="row">
+                <div class="col-12">
+                    <a asp-controller="Supplier" asp-action="Add" class="btn btn-primary">
+                        <i class="fas fa-user-plus"></i>
+                        Add_Supplier
+                    </a>
+                </div>
+            </div>
+        </div>
+     
+        
+        
+        <table id="example" class="table table-striped" style="width:100%">
+            <thead>
+                <tr>
+                    <th>Id</th>
+                    <th>Name</th>
+                    <th>Contact</th>
+                    <th>Action</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (WebApplication1.Models.SupplierModel item in Model)
+                {
+                    <tr>
+                        <td>@item.SupplierId    </td>
+                        <td>@item.Name </td>
+                        <td>@item.Contact</td>
+                        <td>
+                            <a asp-controller="Supplier" asp-action="UpdateSupplier" asp-route-SupplierId="@item.SupplierId"><i class="far fa-edit"></i></a>
+                            <a asp-controller="Supplier" asp-action="Delete" asp-route-SupplierId="@item.SupplierId"><i class="fas fa-trash-alt"></i></a>
+
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+
+    </body>
+</html>

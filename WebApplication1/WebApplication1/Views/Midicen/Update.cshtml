@@ -1,0 +1,45 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+@model WebApplication1.Models.midicen;
+<html>
+<head>
+    <style>
+        .row {
+            padding: 10px;
+        }
+    </style>
+</head>
+<body>
+    <form asp-action="Uppp">
+        <div class="row">
+            <div class="col-md-4">
+                Supplier Name
+                <span class="text-danger">*</span>
+                <input type="text" class="form-control"  asp-for="Name" />
+                <span asp-validation-for="Name" class="text-danger" />
+            </div>
+            <div class="col-md-4">
+                Contact
+                <span class="text-danger">*</span>
+                <input type="text" class="form-control" asp-for="Contact" />
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-4">
+
+
+                <input type="submit" class="btn-primary" value="Submit" />
+            </div>
+        </div>
+    </form>
+</body>
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
+</html>
