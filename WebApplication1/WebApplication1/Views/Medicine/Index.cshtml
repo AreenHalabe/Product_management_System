@@ -1,0 +1,74 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    ViewData["ShowHeader"] = true;
+
+}
+@model List<WebApplication1.Models.MedicineModel>;
+<html>
+<head>
+    <link href="~/css/popStyle.css" rel="stylesheet" />
+</head>
+<body>
+
+    <div class="container text-right">
+        <div class="row">
+            <div class="col-12">
+                <a asp-controller="Medicine" asp-action="Add" class="btn btn-primary">
+                    +  <i class="fa-solid fa-flask"></i> Add_Medicine
+                </a>
+            </div>
+        </div>
+    </div>
+
+    <table id="example" class="table table-striped" style="width:100%">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Price</th>
+                <th>Quantity</th>
+                <th>Expiry_Date</th>
+                <th>Action</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (WebApplication1.Models.MedicineModel item in Model)
+            {
+                <tr>
+                    <td>@item.Name</td>
+                    <td>@item.Price</td>
+                    <td>@item.Quantity</td>
+                    <td>@item.ExpiryDate</td>
+                    <td>
+                        <a asp-controller="Medicine" asp-action="Update" asp-route-MedicineId="@item.MedicineId"><i class="far fa-edit"></i></a>
+                        <a asp-controller="Medicine" asp-action="Delete" asp-route-MedicineId="@item.MedicineId"><i class="fas fa-trash-alt"></i></a>
+                        <a href="javascript:void(0);" class="bellIcon" data-medicine-id="@item.MedicineId"><i class="fa-solid fa-bell"></i></a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+    <!-- Modal (Outside of the table, only one modal for all) -->
+    <div id="notificationModal" class="modal">
+        <div class="modal-content">
+            <span class="close" id="closeModal">&times;</span>
+            <h2>Send Notification</h2>
+            <form>
+                <label for="company">Company:</label>
+                <input type="text" id="company" name="company" required>
+                <br><br>
+                <label for="supplier">Supplier Name:</label>
+                <input type="text" id="supplier" name="supplier" required>
+                <br><br>
+                <button type="submit">Send</button>
+            </form>
+        </div>
+    </div>
+
+    <script src="~/js/pop.js"></script>
+   
+
+</body>
+</html>

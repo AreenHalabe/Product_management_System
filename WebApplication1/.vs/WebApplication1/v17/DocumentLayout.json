@@ -1,0 +1,485 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\visual studio 2022 projects\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7CC3A819-6383-463D-8246-A1F690047E86}|WebApplication1\\WebApplication1.csproj|d:\\visual studio 2022 projects\\webapplication1\\webapplication1\\views\\medicine\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7CC3A819-6383-463D-8246-A1F690047E86}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\medicine\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CC3A819-6383-463D-8246-A1F690047E86}|WebApplication1\\WebApplication1.csproj|d:\\visual studio 2022 projects\\webapplication1\\webapplication1\\wwwroot\\css\\popstyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{7CC3A819-6383-463D-8246-A1F690047E86}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\wwwroot\\css\\popstyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CC3A819-6383-463D-8246-A1F690047E86}|WebApplication1\\WebApplication1.csproj|d:\\visual studio 2022 projects\\webapplication1\\webapplication1\\wwwroot\\js\\pop.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{7CC3A819-6383-463D-8246-A1F690047E86}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\wwwroot\\js\\pop.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CC3A819-6383-463D-8246-A1F690047E86}|WebApplication1\\WebApplication1.csproj|d:\\visual studio 2022 projects\\webapplication1\\webapplication1\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CC3A819-6383-463D-8246-A1F690047E86}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CC3A819-6383-463D-8246-A1F690047E86}|WebApplication1\\WebApplication1.csproj|d:\\visual studio 2022 projects\\webapplication1\\webapplication1\\entity\\notificationid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CC3A819-6383-463D-8246-A1F690047E86}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\entity\\notificationid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CC3A819-6383-463D-8246-A1F690047E86}|WebApplication1\\WebApplication1.csproj|d:\\visual studio 2022 projects\\webapplication1\\webapplication1\\models\\notificationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CC3A819-6383-463D-8246-A1F690047E86}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\notificationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CC3A819-6383-463D-8246-A1F690047E86}|WebApplication1\\WebApplication1.csproj|d:\\visual studio 2022 projects\\webapplication1\\webapplication1\\views\\notification\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7CC3A819-6383-463D-8246-A1F690047E86}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\notification\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CC3A819-6383-463D-8246-A1F690047E86}|WebApplication1\\WebApplication1.csproj|d:\\visual studio 2022 projects\\webapplication1\\webapplication1\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{7CC3A819-6383-463D-8246-A1F690047E86}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CC3A819-6383-463D-8246-A1F690047E86}|WebApplication1\\WebApplication1.csproj|d:\\visual studio 2022 projects\\webapplication1\\webapplication1\\wwwroot\\css\\stylelogin.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{7CC3A819-6383-463D-8246-A1F690047E86}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\wwwroot\\css\\stylelogin.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CC3A819-6383-463D-8246-A1F690047E86}|WebApplication1\\WebApplication1.csproj|d:\\visual studio 2022 projects\\webapplication1\\webapplication1\\controllers\\notificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CC3A819-6383-463D-8246-A1F690047E86}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\notificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CC3A819-6383-463D-8246-A1F690047E86}|WebApplication1\\WebApplication1.csproj|d:\\visual studio 2022 projects\\webapplication1\\webapplication1\\models\\adminmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CC3A819-6383-463D-8246-A1F690047E86}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\adminmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CC3A819-6383-463D-8246-A1F690047E86}|WebApplication1\\WebApplication1.csproj|d:\\visual studio 2022 projects\\webapplication1\\webapplication1\\views\\transaction\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7CC3A819-6383-463D-8246-A1F690047E86}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\transaction\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CC3A819-6383-463D-8246-A1F690047E86}|WebApplication1\\WebApplication1.csproj|d:\\visual studio 2022 projects\\webapplication1\\webapplication1\\controllers\\suppliercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CC3A819-6383-463D-8246-A1F690047E86}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\suppliercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CC3A819-6383-463D-8246-A1F690047E86}|WebApplication1\\WebApplication1.csproj|d:\\visual studio 2022 projects\\webapplication1\\webapplication1\\models\\transactionmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CC3A819-6383-463D-8246-A1F690047E86}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\transactionmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CC3A819-6383-463D-8246-A1F690047E86}|WebApplication1\\WebApplication1.csproj|d:\\visual studio 2022 projects\\webapplication1\\webapplication1\\models\\suppliermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CC3A819-6383-463D-8246-A1F690047E86}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\suppliermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CC3A819-6383-463D-8246-A1F690047E86}|WebApplication1\\WebApplication1.csproj|d:\\visual studio 2022 projects\\webapplication1\\webapplication1\\views\\medicine\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7CC3A819-6383-463D-8246-A1F690047E86}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\medicine\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CC3A819-6383-463D-8246-A1F690047E86}|WebApplication1\\WebApplication1.csproj|d:\\visual studio 2022 projects\\webapplication1\\webapplication1\\views\\transaction\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7CC3A819-6383-463D-8246-A1F690047E86}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\transaction\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CC3A819-6383-463D-8246-A1F690047E86}|WebApplication1\\WebApplication1.csproj|d:\\visual studio 2022 projects\\webapplication1\\webapplication1\\views\\transaction\\validation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7CC3A819-6383-463D-8246-A1F690047E86}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\transaction\\validation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CC3A819-6383-463D-8246-A1F690047E86}|WebApplication1\\WebApplication1.csproj|d:\\visual studio 2022 projects\\webapplication1\\webapplication1\\entity\\phrmacytwocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CC3A819-6383-463D-8246-A1F690047E86}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\entity\\phrmacytwocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CC3A819-6383-463D-8246-A1F690047E86}|WebApplication1\\WebApplication1.csproj|d:\\visual studio 2022 projects\\webapplication1\\webapplication1\\views\\shared\\_sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7CC3A819-6383-463D-8246-A1F690047E86}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\shared\\_sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CC3A819-6383-463D-8246-A1F690047E86}|WebApplication1\\WebApplication1.csproj|d:\\visual studio 2022 projects\\webapplication1\\webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7CC3A819-6383-463D-8246-A1F690047E86}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CC3A819-6383-463D-8246-A1F690047E86}|WebApplication1\\WebApplication1.csproj|d:\\visual studio 2022 projects\\webapplication1\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CC3A819-6383-463D-8246-A1F690047E86}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CC3A819-6383-463D-8246-A1F690047E86}|WebApplication1\\WebApplication1.csproj|d:\\visual studio 2022 projects\\webapplication1\\webapplication1\\views\\admin\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7CC3A819-6383-463D-8246-A1F690047E86}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\admin\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CC3A819-6383-463D-8246-A1F690047E86}|WebApplication1\\WebApplication1.csproj|d:\\visual studio 2022 projects\\webapplication1\\webapplication1\\views\\customer\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7CC3A819-6383-463D-8246-A1F690047E86}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\customer\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CC3A819-6383-463D-8246-A1F690047E86}|WebApplication1\\WebApplication1.csproj|d:\\visual studio 2022 projects\\webapplication1\\webapplication1\\views\\supplier\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7CC3A819-6383-463D-8246-A1F690047E86}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\supplier\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CC3A819-6383-463D-8246-A1F690047E86}|WebApplication1\\WebApplication1.csproj|d:\\visual studio 2022 projects\\webapplication1\\webapplication1\\views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7CC3A819-6383-463D-8246-A1F690047E86}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CC3A819-6383-463D-8246-A1F690047E86}|WebApplication1\\WebApplication1.csproj|d:\\visual studio 2022 projects\\webapplication1\\webapplication1\\views\\customer\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7CC3A819-6383-463D-8246-A1F690047E86}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\customer\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CC3A819-6383-463D-8246-A1F690047E86}|WebApplication1\\WebApplication1.csproj|d:\\visual studio 2022 projects\\webapplication1\\webapplication1\\controllers\\medicinecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CC3A819-6383-463D-8246-A1F690047E86}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\medicinecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "pop.js",
+              "DocumentMoniker": "D:\\visual studio 2022 projects\\WebApplication1\\WebApplication1\\wwwroot\\js\\pop.js",
+              "RelativeDocumentMoniker": "WebApplication1\\wwwroot\\js\\pop.js",
+              "ToolTip": "D:\\visual studio 2022 projects\\WebApplication1\\WebApplication1\\wwwroot\\js\\pop.js",
+              "RelativeToolTip": "WebApplication1\\wwwroot\\js\\pop.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-31T23:57:52.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "popStyle.css",
+              "DocumentMoniker": "D:\\visual studio 2022 projects\\WebApplication1\\WebApplication1\\wwwroot\\css\\popStyle.css",
+              "RelativeDocumentMoniker": "WebApplication1\\wwwroot\\css\\popStyle.css",
+              "ToolTip": "D:\\visual studio 2022 projects\\WebApplication1\\WebApplication1\\wwwroot\\css\\popStyle.css",
+              "RelativeToolTip": "WebApplication1\\wwwroot\\css\\popStyle.css",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-31T23:55:38.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NotificationId.cs",
+              "DocumentMoniker": "D:\\visual studio 2022 projects\\WebApplication1\\WebApplication1\\Entity\\NotificationId.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Entity\\NotificationId.cs",
+              "ToolTip": "D:\\visual studio 2022 projects\\WebApplication1\\WebApplication1\\Entity\\NotificationId.cs",
+              "RelativeToolTip": "WebApplication1\\Entity\\NotificationId.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T23:50:17.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NotificationModel.cs",
+              "DocumentMoniker": "D:\\visual studio 2022 projects\\WebApplication1\\WebApplication1\\Models\\NotificationModel.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\NotificationModel.cs",
+              "ToolTip": "D:\\visual studio 2022 projects\\WebApplication1\\WebApplication1\\Models\\NotificationModel.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\NotificationModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T23:46:46.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\visual studio 2022 projects\\WebApplication1\\WebApplication1\\Views\\Notification\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Notification\\Create.cshtml",
+              "ToolTip": "D:\\visual studio 2022 projects\\WebApplication1\\WebApplication1\\Views\\Notification\\Create.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Notification\\Create.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-31T23:18:24.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\visual studio 2022 projects\\WebApplication1\\WebApplication1\\Views\\Medicine\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Medicine\\Index.cshtml",
+              "ToolTip": "D:\\visual studio 2022 projects\\WebApplication1\\WebApplication1\\Views\\Medicine\\Index.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Medicine\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-23T22:46:01.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "D:\\visual studio 2022 projects\\WebApplication1\\WebApplication1\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\CustomerController.cs",
+              "ToolTip": "D:\\visual studio 2022 projects\\WebApplication1\\WebApplication1\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\CustomerController.cs",
+              "ViewState": "AgIAAH0AAAAAAAAAAIAwwIoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T22:35:32.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NotificationController.cs",
+              "DocumentMoniker": "D:\\visual studio 2022 projects\\WebApplication1\\WebApplication1\\Controllers\\NotificationController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\NotificationController.cs",
+              "ToolTip": "D:\\visual studio 2022 projects\\WebApplication1\\WebApplication1\\Controllers\\NotificationController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\NotificationController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAgwBUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T23:17:49.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StyleLogin.css",
+              "DocumentMoniker": "D:\\visual studio 2022 projects\\WebApplication1\\WebApplication1\\wwwroot\\css\\StyleLogin.css",
+              "RelativeDocumentMoniker": "WebApplication1\\wwwroot\\css\\StyleLogin.css",
+              "ToolTip": "D:\\visual studio 2022 projects\\WebApplication1\\WebApplication1\\wwwroot\\css\\StyleLogin.css",
+              "RelativeToolTip": "WebApplication1\\wwwroot\\css\\StyleLogin.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-24T00:08:57.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\visual studio 2022 projects\\WebApplication1\\WebApplication1\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "WebApplication1\\wwwroot\\css\\site.css",
+              "ToolTip": "D:\\visual studio 2022 projects\\WebApplication1\\WebApplication1\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "WebApplication1\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAFQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-23T23:00:10.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AdminModel.cs",
+              "DocumentMoniker": "D:\\visual studio 2022 projects\\WebApplication1\\WebApplication1\\Models\\AdminModel.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\AdminModel.cs",
+              "ToolTip": "D:\\visual studio 2022 projects\\WebApplication1\\WebApplication1\\Models\\AdminModel.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\AdminModel.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T23:32:18.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "D:\\visual studio 2022 projects\\WebApplication1\\WebApplication1\\Views\\Transaction\\Add.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Transaction\\Add.cshtml",
+              "ToolTip": "D:\\visual studio 2022 projects\\WebApplication1\\WebApplication1\\Views\\Transaction\\Add.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Transaction\\Add.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-31T23:27:10.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SupplierController.cs",
+              "DocumentMoniker": "D:\\visual studio 2022 projects\\WebApplication1\\WebApplication1\\Controllers\\SupplierController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\SupplierController.cs",
+              "ToolTip": "D:\\visual studio 2022 projects\\WebApplication1\\WebApplication1\\Controllers\\SupplierController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\SupplierController.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAowFMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T22:39:08.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TransactionModel.cs",
+              "DocumentMoniker": "D:\\visual studio 2022 projects\\WebApplication1\\WebApplication1\\Models\\TransactionModel.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\TransactionModel.cs",
+              "ToolTip": "D:\\visual studio 2022 projects\\WebApplication1\\WebApplication1\\Models\\TransactionModel.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\TransactionModel.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T23:12:54.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SupplierModel.cs",
+              "DocumentMoniker": "D:\\visual studio 2022 projects\\WebApplication1\\WebApplication1\\Models\\SupplierModel.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\SupplierModel.cs",
+              "ToolTip": "D:\\visual studio 2022 projects\\WebApplication1\\WebApplication1\\Models\\SupplierModel.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\SupplierModel.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T23:07:18.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\visual studio 2022 projects\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
+              "ToolTip": "D:\\visual studio 2022 projects\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "WebApplication1\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAABAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T00:35:40.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_Sidebar.cshtml",
+              "DocumentMoniker": "D:\\visual studio 2022 projects\\WebApplication1\\WebApplication1\\Views\\Shared\\_Sidebar.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Shared\\_Sidebar.cshtml",
+              "ToolTip": "D:\\visual studio 2022 projects\\WebApplication1\\WebApplication1\\Views\\Shared\\_Sidebar.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Shared\\_Sidebar.cshtml",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAFUAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-23T22:37:29.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PhrmacyTwoContext.cs",
+              "DocumentMoniker": "D:\\visual studio 2022 projects\\WebApplication1\\WebApplication1\\Entity\\PhrmacyTwoContext.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Entity\\PhrmacyTwoContext.cs",
+              "ToolTip": "D:\\visual studio 2022 projects\\WebApplication1\\WebApplication1\\Entity\\PhrmacyTwoContext.cs",
+              "RelativeToolTip": "WebApplication1\\Entity\\PhrmacyTwoContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T21:59:32.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\visual studio 2022 projects\\WebApplication1\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\visual studio 2022 projects\\WebApplication1\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAA0AAAByAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-23T22:37:26.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "D:\\visual studio 2022 projects\\WebApplication1\\WebApplication1\\Views\\Medicine\\Add.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Medicine\\Add.cshtml",
+              "ToolTip": "D:\\visual studio 2022 projects\\WebApplication1\\WebApplication1\\Views\\Medicine\\Add.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Medicine\\Add.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-23T22:45:57.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Validation.cshtml",
+              "DocumentMoniker": "D:\\visual studio 2022 projects\\WebApplication1\\WebApplication1\\Views\\Transaction\\Validation.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Transaction\\Validation.cshtml",
+              "ToolTip": "D:\\visual studio 2022 projects\\WebApplication1\\WebApplication1\\Views\\Transaction\\Validation.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Transaction\\Validation.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T22:31:55.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\visual studio 2022 projects\\WebApplication1\\WebApplication1\\Views\\Transaction\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Transaction\\Index.cshtml",
+              "ToolTip": "D:\\visual studio 2022 projects\\WebApplication1\\WebApplication1\\Views\\Transaction\\Index.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Transaction\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-24T00:14:04.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "D:\\visual studio 2022 projects\\WebApplication1\\WebApplication1\\Views\\Customer\\Update.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Customer\\Update.cshtml",
+              "ToolTip": "D:\\visual studio 2022 projects\\WebApplication1\\WebApplication1\\Views\\Customer\\Update.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Customer\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-23T22:45:49.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\visual studio 2022 projects\\WebApplication1\\WebApplication1\\Views\\Supplier\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Supplier\\Index.cshtml",
+              "ToolTip": "D:\\visual studio 2022 projects\\WebApplication1\\WebApplication1\\Views\\Supplier\\Index.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Supplier\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-23T22:46:22.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\visual studio 2022 projects\\WebApplication1\\WebApplication1\\Views\\Admin\\Login.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Admin\\Login.cshtml",
+              "ToolTip": "D:\\visual studio 2022 projects\\WebApplication1\\WebApplication1\\Views\\Admin\\Login.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Admin\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-23T22:44:44.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\visual studio 2022 projects\\WebApplication1\\WebApplication1\\Views\\Customer\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Customer\\Index.cshtml",
+              "ToolTip": "D:\\visual studio 2022 projects\\WebApplication1\\WebApplication1\\Views\\Customer\\Index.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Customer\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-23T22:39:31.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "D:\\visual studio 2022 projects\\WebApplication1\\WebApplication1\\Views\\Customer\\Add.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Customer\\Add.cshtml",
+              "ToolTip": "D:\\visual studio 2022 projects\\WebApplication1\\WebApplication1\\Views\\Customer\\Add.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Customer\\Add.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-23T22:39:33.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "MedicineController.cs",
+              "DocumentMoniker": "D:\\visual studio 2022 projects\\WebApplication1\\WebApplication1\\Controllers\\MedicineController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\MedicineController.cs",
+              "ToolTip": "D:\\visual studio 2022 projects\\WebApplication1\\WebApplication1\\Controllers\\MedicineController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\MedicineController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T22:36:18.761Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

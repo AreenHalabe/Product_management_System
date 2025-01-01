@@ -1,0 +1,105 @@
+﻿<ul class="navbar-nav bg-gradient-primary sidebar sidebar-dark accordion vh-100" id="accordionSidebar">
+    <div class="sidebar-heading text-white mt-3 d-flex justify-content-center align-items-center gap-2">
+        <span style="font-size: 2rem;">DR.</span> <!-- Text size increased -->
+        <i class="fa-solid fa-user-doctor fa-2x mr-2"></i> <!-- Icon size increased -->
+        <!-- Text size increased -->
+    </div>
+    <hr class="sidebar-divider">
+
+<li class="nav-item active">
+    <a class="nav-link" href="/">
+        <i class="fas fa-fw fa-tachometer-alt"></i>
+        <span>Dashboard</span>
+    </a>
+</li>
+
+<!-- Divider -->
+<hr class="sidebar-divider">
+
+<!-- Employee Section -->
+<li class="nav-item">
+    <a class="nav-link" href="#" onclick="toggleSubmenu('employeeMenu')">
+        <i class="fas fa-user-friends"></i>
+        <span>Supplier</span>
+    </a>
+    <div id="employeeMenu" class="submenu d-none">
+        <a class="nav-link" href="/Supplier/Add">
+            <i class="fas fa-user-plus"></i> Add Supplier
+        </a>
+            <a class="nav-link" href="/Supplier/Index">
+            <i class="fas fa-list"></i> List Supplier
+        </a>
+    </div>
+</li>
+
+<!-- Divider -->
+<hr class="sidebar-divider">
+
+<!-- Customers Section -->
+<li class="nav-item">
+    <a class="nav-link" href="#" onclick="toggleSubmenu('customerMenu')">
+        <i class="fas fa-users"></i>
+        <span>Customers</span>
+    </a>
+    <div id="customerMenu" class="submenu d-none">
+        <a class="nav-link" href="/Customer/Add">
+            <i class="fas fa-user-plus"></i> Add Customers
+        </a>
+            <a class="nav-link" href="/Customer/Index">
+            <i class="fas fa-list"></i> List Customers
+        </a>
+    </div>
+</li>
+
+<hr class="sidebar-divider">
+
+<!-- Customers Section -->
+<li class="nav-item">
+    <a class="nav-link" href="#" onclick="toggleSubmenu('medicinMenu')">
+        <i class="fas fa-capsules"></i>
+        <span>Medicine</span>
+    </a>
+    <div id="medicinMenu" class="submenu d-none">
+        <a class="nav-link" href="/Medicine/Add">
+                <i class="fa-solid fa-flask"></i> Add Medicine
+        </a>
+        <a class="nav-link" href="/Medicine/Index">
+            <i class="fas fa-list"></i> List Medicine
+        </a>
+    </div>
+</li>
+
+
+    <hr class="sidebar-divider">
+
+
+
+    <li class="nav-item">
+        <a class="nav-link" href="#" onclick="toggleSubmenu('TransectionMenu')">
+            <i class="fa-solid fa-receipt"></i>
+            <span>Transections</span>
+        </a>
+        <div id="TransectionMenu" class="submenu d-none">
+            <a class="nav-link" href="/Transaction/Add">
+                <i class="fa-solid fa-receipt"></i> create Transections
+            </a>
+            <a class="nav-link" href="/Transaction/Index">
+                <i class="fas fa-list"></i> List Transections
+            </a>
+        </div>
+    </li>
+    <hr class="sidebar-divider">
+
+
+
+<li class="nav-item mt-auto">
+    <!-- "mt-auto" pushes this item to the bottom -->
+        <form asp-controller="Admin" asp-action="Logout" method="post" style="display:inline;">
+            <button type="submit" class="nav-link" style="background:none; border:none; padding:0;">
+                <i class="fas fa-sign-out-alt"></i>
+                <span>Logout</span>
+            </button>
+        </form>
+</li>
+
+</ul>

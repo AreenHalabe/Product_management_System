@@ -1,0 +1,84 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    ViewData["ShowHeader"] = true;
+
+}
+@model WebApplication1.Models.TransactionModel;
+<html>
+    <head>
+        <style>
+            .row {
+                padding: 10px;
+            }
+        </style>
+    </head>
+<body>
+    <div class="container mt-5 d-flex justify-content-center align-items-center" style="min-height: 100vh;">
+        <div class="col-md-6">
+            <h2 class="text-center">Create Transaction</h2>
+            <form asp-action="Add_Transaction">
+                <div class="mb-3">
+                    <label for="medicineName" class="form-label">Medicine Name</label>
+                    <input type="text" class="form-control" id="medicineName" placeholder="Enter Medicine Name" asp-for="MedicineName">
+                </div>
+
+                <div class="mb-3">
+                    <label for="supplierName" class="form-label">Supplier Name</label>
+                    <input type="text" class="form-control" id="supplierName" placeholder="Enter Supplier Name" asp-for="SupplierName">
+                </div>
+
+                <div class="mb-3" id="customerNameContainer">
+                    <label for="customerName" class="form-label">Customer Name</label>
+                    <input type="text" class="form-control" id="customerName" placeholder="Enter Customer Name" asp-for="CustomerName">
+                </div>
+
+                <div class="mb-3">
+                    <label for="transactionDate" class="form-label">Transaction Date</label>
+                    <input type="date" class="form-control" id="transactionDate" asp-for="TransactionDate">
+                </div>
+
+                <div class="mb-3">
+                    <label for="quantity" class="form-label">Quantity</label>
+                    <input type="number" class="form-control" id="quantity" placeholder="Enter Quantity" asp-for="Quantity">
+                </div>
+
+                <div class="mb-3">
+                    <label class="form-label">Transaction Type</label><br>
+                    <div class="form-check form-check-inline">
+                        <input class="form-check-input" type="radio" name="transactionType" id="purchase" value="true" asp-for="TransactionType" onchange="toggleCustomerName()" />
+                        <label class="form-check-label" for="purchase">Purchase</label>
+                    </div>
+                    <div class="form-check form-check-inline">
+                        <input class="form-check-input" type="radio" name="transactionType" id="sale" value="false" asp-for="TransactionType" checked onchange="toggleCustomerName()" />
+                        <label class="form-check-label" for="sale">Sale</label>
+                    </div>
+                </div>
+
+                <button type="submit" class="btn btn-primary">Submit</button>
+            </form>
+        </div>
+    </div>
+</body>
+
+<script>
+    function toggleCustomerName() {
+        const purchaseRadio = document.getElementById('purchase');
+        const customerNameContainer = document.getElementById('customerNameContainer');
+
+
+        if (purchaseRadio.checked) {
+            customerNameContainer.style.display = 'none';
+        } else {
+            customerNameContainer.style.display = 'block';
+        }
+    }
+
+
+    document.addEventListener('DOMContentLoaded', function () {
+        toggleCustomerName();
+    });
+</script>
+
+</html>

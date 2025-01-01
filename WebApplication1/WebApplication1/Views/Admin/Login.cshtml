@@ -1,0 +1,52 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    ViewData["ShowSidebar"] = false;
+
+}
+@model WebApplication1.Models.AdminModel;
+
+<html>
+<head>
+
+</head>
+<body>
+    <form asp-action="Login" method="post">
+    <section style="background-color: #508bfc;">
+        <div class="container py-5 h-100">
+            <div class="row d-flex justify-content-center align-items-center h-100">
+                <div class="col-12 col-md-8 col-lg-6 col-xl-5">
+                    <div class="card shadow-2-strong" style="border-radius: 1rem;">
+                        <div class="card-body p-5 text-center">
+                            <h3 class="mb-5">Admin</h3>
+                            <div data-mdb-input-init class="form-outline mb-4">
+                                    <label class="form-label">Name</label>
+                                    <input type="text"  class="form-control form-control-lg" asp-for="Name" placeholder="Name"/>
+                                    <span asp-validation-for="Name" class="text-danger"></span>
+                            </div>
+                            <div data-mdb-input-init class="form-outline mb-4">
+                                    <label class="form-label" for="typePasswordX-2">Password</label>
+                                <input type="password" id="typePasswordX-2" class="form-control form-control-lg" asp-for="Password" placeholder="Password" />
+                                
+                                <span asp-validation-for="Password" class="text-danger"></span>
+                            </div>
+
+
+                            <button data-mdb-button-init data-mdb-ripple-init class="btn btn-primary btn-lg btn-block" type="submit">Login</button>
+
+                                @if (TempData["ErrorMessage"] != null)
+                                {
+                                    <div class="text-danger mb-4">@TempData["ErrorMessage"]</div>
+                                }
+                        </div>
+                           
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    </form>
+   
+    </body>
+</html>
